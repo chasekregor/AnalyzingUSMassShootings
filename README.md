@@ -17,3 +17,6 @@ To have a better understanding of mass shootings in the US.
 * Can you find and combine any other external datasets to enrich the analysis, for example, gun ownership by state?
 * Any other pattern you see that can help in prediction, crowd safety or in-depth analysis of the event?
 * How many shooters have some kind of mental health problem? Can we compare that shooter with general population with same condition?
+
+### Featured:
+You can also find this project at [Chasing Data](www.chasekregor.github.io)
